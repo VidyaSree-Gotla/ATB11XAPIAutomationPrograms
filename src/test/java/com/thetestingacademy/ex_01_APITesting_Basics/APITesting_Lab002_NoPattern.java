@@ -1,4 +1,4 @@
-package ex_01_APITesting_Basics;
+package com.thetestingacademy.ex_01_APITesting_Basics;
 
 public class APITesting_Lab002_NoPattern {
 

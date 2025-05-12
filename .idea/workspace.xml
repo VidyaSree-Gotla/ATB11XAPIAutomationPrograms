@@ -1,8 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd0f70ee-9b06-47ab-bca9-c08e1573aab8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_01_APITesting_Basics/APITesting_Lab001_Basic_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_01_APITesting_Basics/APITesting_Lab002_NoPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_01_APITesting_Basics/APITesting_Lab003_BuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_02_TestNG_AllureReport/APITesting_Lab004_Multiple_TestCases.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2wz8QSzp0REjPhZThruzUq9NvKT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.APITesting_Basic_Concept.executor": "Run",
+    "Application.APITesting_Basic_program.executor": "Run",
+    "Application.APITesting_Lab003_BuilderPattern.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.APITesting_Lab004_Multiple_TestCases.Positive_TC1.executor": "Run",
+    "TestNG.APITesting_Lab004_Multiple_TestCases.executor": "Run",
+    "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml">
+    <configuration name="APITesting_Lab001_Basic_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_01_APITesting_Basics.APITesting_Lab001_Basic_Program" />
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_01_APITesting_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_Lab003_BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_APITesting_Basics.APITesting_Lab003_BuilderPattern" />
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_01_APITesting_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_Lab004_Multiple_TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_02_TestNG_AllureReport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport.APITesting_Lab004_Multiple_TestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_Lab004_Multiple_TestCases.Positive_TC1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_02_TestNG_AllureReport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport.APITesting_Lab004_Multiple_TestCases" />
+      <option name="METHOD_NAME" value="Positive_TC1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml" />
+        <item itemvalue="TestNG.APITesting_Lab004_Multiple_TestCases.Positive_TC1" />
+        <item itemvalue="TestNG.APITesting_Lab004_Multiple_TestCases" />
+        <item itemvalue="Application.APITesting_Lab003_BuilderPattern" />
+        <item itemvalue="Application.APITesting_Lab001_Basic_Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd0f70ee-9b06-47ab-bca9-c08e1573aab8" name="Changes" comment="" />
+      <created>1747033029393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747033029393</updated>
+    </task>
+    <servers />
   </component>
 </project>

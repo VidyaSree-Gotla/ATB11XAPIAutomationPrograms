@@ -1,4 +1,4 @@
-package ex_01_APITesting_Basics;
+package com.thetestingacademy.ex_01_APITesting_Basics;
 
 public class APITesting_Lab003_BuilderPattern {
     public APITesting_Lab003_BuilderPattern Step1() {

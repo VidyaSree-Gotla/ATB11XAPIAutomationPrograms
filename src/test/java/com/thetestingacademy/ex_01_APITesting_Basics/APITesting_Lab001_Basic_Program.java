@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package com.thetestingacademy.ex_01_APITesting_Basics;
 import io.restassured.RestAssured;
 
 import java.util.Scanner;
