@@ -6,7 +6,7 @@ public class APITesting_Lab004_Multiple_TestCases {
 
 
     String pincode = "90210";
-    @Test
+    @Test//Annotation
     public void Positive_TC1(){
         pincode = "90210";
         RestAssured

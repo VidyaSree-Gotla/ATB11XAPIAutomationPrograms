@@ -4,15 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd0f70ee-9b06-47ab-bca9-c08e1573aab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_01_APITesting_Basics/APITesting_Lab001_Basic_Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_01_APITesting_Basics/APITesting_Lab002_NoPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_01_APITesting_Basics/APITesting_Lab003_BuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_02_TestNG_AllureReport/APITesting_Lab004_Multiple_TestCases.java" afterDir="false" />
+    <list default="true" id="dd0f70ee-9b06-47ab-bca9-c08e1573aab8" name="Changes" comment="API Automation Testing First commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/DELETE/APITesting_Lab009_DELETE_NON_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/GET/APITesting_Lab005_GET_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/GET/APITesting_Lab005_GET_NON_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/PATCH/APITesting_Lab008_PATCH_NON_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/POST/APITesting_Lab006_POST_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/POST/APITesting_Lab006_POST_NON_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/PUT/APITesting_Lab007_PUT_NON_BDD_Style.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab010_Before_After_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab011_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab012_Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab013_DependsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab014_Enabled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab014_Parameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab015_AlwaysRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab016_InvocationCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab017_AllAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_05_TestNG_Assertions/APITesting_Lab018_RestAssured_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_05_TestNG_Assertions/APITesting_Lab019_TestNG_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_Groups_Sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_Groups_p1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_Groups_reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_Params_Chrome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng_Params_FireFox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_02_TestNG_AllureReport/APITesting_Lab004_Multiple_TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_02_TestNG_AllureReport/APITesting_Lab004_Multiple_TestCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +47,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VidyaSree-Gotla&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VidyaSree-Gotla/ATB11XAPIAutomationPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;9f2f6011-ab21-4bf5-9603-ff0c25ba5167&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -43,60 +73,63 @@
   "keyToString": {
     "Application.APITesting_Basic_Concept.executor": "Run",
     "Application.APITesting_Basic_program.executor": "Run",
+    "Application.APITesting_Lab001_Basic_Program.executor": "Run",
     "Application.APITesting_Lab003_BuilderPattern.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "TestNG.APITesting_Lab004_Multiple_TestCases.Positive_TC1.executor": "Run",
     "TestNG.APITesting_Lab004_Multiple_TestCases.executor": "Run",
+    "TestNG.APITesting_Lab005_GET_BDD_Style.test_GET_Positive.executor": "Run",
+    "TestNG.APITesting_Lab005_GET_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab006_POST_NON_BDD_Style.Test_POST_NONBDD_AUTH.executor": "Run",
+    "TestNG.APITesting_Lab006_POST_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab007_PUT_NON_BDD_Style.Test_PUT_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab008_PATCH_NON_BDD_Style.Test_PUT_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab009_DELETE_NON_BDD_Style.Test_Delete_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab009_DELETE_NON_BDD_Style.Test_PUT_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab009_DELETE_NON_BDD_Style.executor": "Run",
+    "TestNG.APITesting_Lab010_Before_After_Test.executor": "Run",
+    "TestNG.APITesting_Lab011_Priority.executor": "Run",
+    "TestNG.APITesting_Lab014_Enabled.executor": "Run",
+    "TestNG.APITesting_Lab014_Parameters.executor": "Run",
+    "TestNG.APITesting_Lab015_AlwaysRun.executor": "Run",
+    "TestNG.APITesting_Lab016_InvocationCount.executor": "Run",
+    "TestNG.APITesting_Lab017_AllAnnotations.executor": "Run",
+    "TestNG.APITesting_Lab018_RestAssured_Assertions.executor": "Run",
+    "TestNG.APITesting_Lab019_TestNG_Assertions.executor": "Run",
     "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml.executor": "Run",
+    "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Groups_Sanity.xml.executor": "Run",
+    "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Groups_p1.xml.executor": "Run",
+    "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Groups_reg.xml.executor": "Run",
+    "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Params_Chrome.xml.executor": "Run",
+    "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Params_FireFox.xml.executor": "Run",
+    "TestNG.com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vidyasrg\IdeaProjects\ATB11XAPIAutomationPrograms" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.thetestingacademy" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml">
-    <configuration name="APITesting_Lab001_Basic_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_01_APITesting_Basics.APITesting_Lab001_Basic_Program" />
+  <component name="RunManager" selected="TestNG.APITesting_Lab019_TestNG_Assertions">
+    <configuration name="APITesting_Lab005_GET_NON_BDD_Style" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB11XAPIAutomationPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_01_APITesting_Basics.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.GET.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting_Lab003_BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_APITesting_Basics.APITesting_Lab003_BuilderPattern" />
-      <module name="ATB11XAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_01_APITesting_Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting_Lab004_Multiple_TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB11XAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_02_TestNG_AllureReport.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport.APITesting_Lab004_Multiple_TestCases" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.GET" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.GET.APITesting_Lab005_GET_NON_BDD_Style" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -104,28 +137,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APITesting_Lab004_Multiple_TestCases.Positive_TC1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting_Lab017_AllAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB11XAPIAutomationPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_02_TestNG_AllureReport.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_04_TestNG_Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_02_TestNG_AllureReport.APITesting_Lab004_Multiple_TestCases" />
-      <option name="METHOD_NAME" value="Positive_TC1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_04_TestNG_Examples" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_04_TestNG_Examples.APITesting_Lab017_AllAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="APITesting_Lab018_RestAssured_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB11XAPIAutomationPrograms" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_05_TestNG_Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions.APITesting_Lab018_RestAssured_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_Lab019_TestNG_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_05_TestNG_Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions.APITesting_Lab019_TestNG_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -134,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml" />
-        <item itemvalue="TestNG.APITesting_Lab004_Multiple_TestCases.Positive_TC1" />
-        <item itemvalue="TestNG.APITesting_Lab004_Multiple_TestCases" />
-        <item itemvalue="Application.APITesting_Lab003_BuilderPattern" />
-        <item itemvalue="Application.APITesting_Lab001_Basic_Program" />
+        <item itemvalue="TestNG.APITesting_Lab019_TestNG_Assertions" />
+        <item itemvalue="TestNG.com.thetestingacademy.ex_03_RestAssured_HTTP_Methods" />
+        <item itemvalue="TestNG.APITesting_Lab005_GET_NON_BDD_Style" />
+        <item itemvalue="TestNG.APITesting_Lab018_RestAssured_Assertions" />
+        <item itemvalue="TestNG.APITesting_Lab017_AllAnnotations" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +223,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747033029393</updated>
     </task>
+    <task id="LOCAL-00001" summary="API Automation Testing First commit">
+      <option name="closed" value="true" />
+      <created>1747042048229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747042048229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="API Automation Testing First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Automation Testing First commit" />
   </component>
 </project>
