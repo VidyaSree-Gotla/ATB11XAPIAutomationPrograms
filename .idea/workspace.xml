@@ -4,33 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd0f70ee-9b06-47ab-bca9-c08e1573aab8" name="Changes" comment="API Automation Testing First commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/DELETE/APITesting_Lab009_DELETE_NON_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/GET/APITesting_Lab005_GET_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/GET/APITesting_Lab005_GET_NON_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/PATCH/APITesting_Lab008_PATCH_NON_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/POST/APITesting_Lab006_POST_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/POST/APITesting_Lab006_POST_NON_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_03_RestAssured_HTTP_Methods/PUT/APITesting_Lab007_PUT_NON_BDD_Style.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab010_Before_After_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab011_Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab012_Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab013_DependsOnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab014_Enabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab014_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab015_AlwaysRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab016_InvocationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_04_TestNG_Examples/APITesting_Lab017_AllAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_05_TestNG_Assertions/APITesting_Lab018_RestAssured_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_05_TestNG_Assertions/APITesting_Lab019_TestNG_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Groups_Sanity.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Groups_p1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Groups_reg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Params_Chrome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Params_FireFox.xml" afterDir="false" />
+    <list default="true" id="dd0f70ee-9b06-47ab-bca9-c08e1573aab8" name="Changes" comment="API Automation Testing Second Commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_05_TestNG_Assertions/APITesting_Lab020_TestNG_AsserJ_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Class/Manual/POJO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Class/Manual/Request_Payload/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Class/Manual/Request_Payload/Booking_Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Class/Manual/Response_Payload/Booking_Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Class/Tools/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Class/Tools/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/Hashmap/APITesting_Lab022_Payload_HashMap_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_06_Payload_management/String/APITesting_Lab021_Payload_String_Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_02_TestNG_AllureReport/APITesting_Lab004_Multiple_TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_02_TestNG_AllureReport/APITesting_Lab004_Multiple_TestCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +83,8 @@
     "TestNG.APITesting_Lab017_AllAnnotations.executor": "Run",
     "TestNG.APITesting_Lab018_RestAssured_Assertions.executor": "Run",
     "TestNG.APITesting_Lab019_TestNG_Assertions.executor": "Run",
+    "TestNG.APITesting_Lab020_TestNG_AsserJ_Assertions.executor": "Run",
+    "TestNG.APITesting_Lab022_Payload_HashMap_Example.executor": "Run",
     "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng.xml.executor": "Run",
     "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Groups_Sanity.xml.executor": "Run",
     "TestNG.C:/Users/vidyasrg/IdeaProjects/ATB11XAPIAutomationPrograms/testng_Groups_p1.xml.executor": "Run",
@@ -119,52 +106,19 @@
       <recent name="com.thetestingacademy" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.APITesting_Lab019_TestNG_Assertions">
-    <configuration name="APITesting_Lab005_GET_NON_BDD_Style" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.APITesting_Lab022_Payload_HashMap_Example">
+    <configuration name="APITesting_Lab006_POST_NON_BDD_Style.Test_POST_NONBDD_AUTH" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB11XAPIAutomationPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.GET.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.POST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.GET" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.GET.APITesting_Lab005_GET_NON_BDD_Style" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting_Lab017_AllAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB11XAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_04_TestNG_Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_04_TestNG_Examples" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_04_TestNG_Examples.APITesting_Lab017_AllAnnotations" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="APITesting_Lab018_RestAssured_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB11XAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_05_TestNG_Assertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions.APITesting_Lab018_RestAssured_Assertions" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.POST" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_03_RestAssured_HTTP_Methods.POST.APITesting_Lab006_POST_NON_BDD_Style" />
+      <option name="METHOD_NAME" value="Test_POST_NONBDD_AUTH" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -181,6 +135,40 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions" />
       <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions.APITesting_Lab019_TestNG_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_Lab020_TestNG_AsserJ_Assertions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_05_TestNG_Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_05_TestNG_Assertions.APITesting_Lab020_TestNG_AsserJ_Assertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITesting_Lab022_Payload_HashMap_Example" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB11XAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_06_Payload_management.Hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_06_Payload_management.Hashmap" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_06_Payload_management.Hashmap.APITesting_Lab022_Payload_HashMap_Example" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -206,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.APITesting_Lab022_Payload_HashMap_Example" />
+        <item itemvalue="TestNG.APITesting_Lab020_TestNG_AsserJ_Assertions" />
+        <item itemvalue="TestNG.APITesting_Lab006_POST_NON_BDD_Style.Test_POST_NONBDD_AUTH" />
         <item itemvalue="TestNG.APITesting_Lab019_TestNG_Assertions" />
         <item itemvalue="TestNG.com.thetestingacademy.ex_03_RestAssured_HTTP_Methods" />
-        <item itemvalue="TestNG.APITesting_Lab005_GET_NON_BDD_Style" />
-        <item itemvalue="TestNG.APITesting_Lab018_RestAssured_Assertions" />
-        <item itemvalue="TestNG.APITesting_Lab017_AllAnnotations" />
       </list>
     </recent_temporary>
   </component>
@@ -231,11 +219,20 @@
       <option name="project" value="LOCAL" />
       <updated>1747042048229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="API Automation Testing Second Commit">
+      <option name="closed" value="true" />
+      <created>1747151526677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747151526677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="API Automation Testing First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="API Automation Testing First commit" />
+    <MESSAGE value="API Automation Testing Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Automation Testing Second Commit" />
   </component>
 </project>
